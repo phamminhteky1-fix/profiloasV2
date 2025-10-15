@@ -1,3 +1,19 @@
+<<<<<<< HEAD
+=======
+Phamminhteky1's note: The following long godanm document are created default when I am installing a React App. Just skip this.
+
+
+
+
+
+
+
+
+
+
+
+
+>>>>>>> 2571616a6dc6bef16c1b938f2ad69faedbbdd540
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
