@@ -39,7 +39,7 @@
   }
 }
 {
-  "homepage": "https://yourusername.github.io/your-repo-name",
+  "homepage": "https://phamminhteky1-fix.github.io/profiloasV2",
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
