@@ -1,11 +1,6 @@
 
 =======
 Phamminhteky1's note: The following long godanm document are created default when I am installing a React App. Just skip this.
-
-
-
-
-
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
