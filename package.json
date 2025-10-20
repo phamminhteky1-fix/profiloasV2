@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://phamminhteky1-fix.github.io/profiloasV2",
   "scripts": {
-    "dev": "vite",
+    "start": "vite",
     "build": "vite build",
     "preview": "vite preview",
     "predeploy": "npm run build",
