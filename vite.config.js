@@ -1,8 +1,10 @@
 import { defineConfig } from 'vite';
-import react from '@vitejs/plugin-react-swc';
-import svgr from 'vite-plugin-svgr';
+import react from '@vitejs/plugin-react';
 
 export default defineConfig({
-  base: '/profiloasV2/',
-  plugins: [react(), svgr()],
+  plugins: [react()],
+  base: '/Fully-stacked/',
+  build: {
+    outDir: 'build'
+  }
 });
